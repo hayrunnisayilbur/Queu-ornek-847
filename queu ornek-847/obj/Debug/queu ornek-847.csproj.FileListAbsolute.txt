@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\bin\Debug\queu ornek-847.exe.config
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\bin\Debug\queu ornek-847.exe
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\bin\Debug\queu ornek-847.pdb
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu_ornek_847.Form1.resources
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu_ornek_847.Properties.Resources.resources
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.exe
+C:\Users\User\source\repos\queu ornek-847\queu ornek-847\obj\Debug\queu ornek-847.pdb
